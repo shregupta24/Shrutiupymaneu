@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Frontend**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **shuruupmaneu@gmail.com**
 
